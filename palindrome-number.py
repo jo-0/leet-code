@@ -28,7 +28,7 @@ Constraints:
 """
 
 
-def isPalindrome(x: int) -> bool:
+def is_palindrome(x: int) -> bool:
     if x < 0:
         return False
 
@@ -45,4 +45,4 @@ def isPalindrome(x: int) -> bool:
         return False
 
 
-isPalindrome(121)
+is_palindrome(121)
