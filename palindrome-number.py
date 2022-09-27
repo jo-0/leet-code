@@ -34,15 +34,12 @@ def is_palindrome(x: int) -> bool:
 
     num_str = str(x)
     length = len(num_str) - 1
-    rev_num = ''
+    reverse = ''
     while (length >= 0):
-        rev_num += num_str[length]
+        reverse += num_str[length]
         length -= 1
 
-    if int(rev_num) == x:
-        return True
-    else:
-        return False
+    return True if int(reverse) == x else False
 
 
-is_palindrome(121)
+print(is_palindrome(121))
