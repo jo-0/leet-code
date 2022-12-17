@@ -37,7 +37,7 @@ Sample Input 1
 1 5 2 - 1
 2 4 5 - 1
 3 5 - 1
-4531-1
+4 5 3 1 - 1
 5 - 1
 
 Sample Output 1

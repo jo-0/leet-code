@@ -11,13 +11,11 @@ number. For example, you can change 1110 to 1111, but should not change it to 01
 
 Given a number, and a maximum number of changes allowed, create the largest possible palindromic number or print -1 if
 it is not possible to create a palindromic number within the allowed number of changes.
-
 -----------------------------------------------------------------------------------------------------------------------
 Input:
 The first line in the test case contains two space-separated integers, D and K the number of digits in the number and
 the maximum number of changes allowed.
-The second line in the test case contains an D -digit number
-N
+The second line in the test case contains an D -digit number N
 -----------------------------------------------------------------------------------------------------------------------
 Output:
 The output should be an integer as mentioned above.
