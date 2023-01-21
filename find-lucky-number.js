@@ -1,11 +1,6 @@
 /**
- * Ex 1:
- * arr = [1, 1, 2, 3, 3, 3, 4, 4, 4, 5]
- * Answer = 3; since it occurs exactly 3 times.
- * 
- * Ex 2:
- * arr = [5]
- * Answer = -1
+ * 1394. Find Lucky Integer in an Array
+ * https://leetcode.com/problems/find-lucky-integer-in-an-array/
  * 
  * @param {int[]} arr An integer array
  * @returns the biggest lucky number or -1
